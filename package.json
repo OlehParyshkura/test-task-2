@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_project",
+  "version": "0.0.1",
+  "description": "NodeJS project example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "postinstall": "cd app/react-front && npm install"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}

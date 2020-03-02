@@ -1,0 +1,12 @@
+{
+  "statuses": {
+    "success": "SUCCESS",
+    "failure": "FAILURE"
+  },
+  "httpStatuses": {
+    "OK": 200,
+    "SERVER_ERROR": 500
+  },
+  "jwtSecret": "edtfujh;['poi9u8y7t6tghmkl;'"
+  
+}
